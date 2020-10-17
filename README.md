@@ -11,7 +11,7 @@ __Open the secrets.py file to edit and enter your details there.__
 Prerequisites :-
 - Python (v3.8)
 - Selenium Package (v3.141.0)
-- Google Chrome Driver/Firefox Gecko Driver (v0.26.0)
+- Google Chrome Driver/Firefox Gecko Driver (v0.26.0)-Latest Version
 
 Instructions :-
 
@@ -30,5 +30,7 @@ and add it to your path (see Documentation of chrome driver)
 - Now edit the secrets.py file accordingly and then run fbot.py file.
 
 ![Ubuntu package](https://img.shields.io/ubuntu/v/sc) ![GitHub last commit](https://img.shields.io/github/last-commit/skyrunner360/ADYPU_Feedback_form_filling_Bot)
+
+
 
 
